@@ -23,13 +23,13 @@ MonoBehaviour:
     m_Blend:
       m_Style: 1
       m_Time: 3
-  - m_From: '**ANY CAMERA**'
+  - m_From: (none)
     m_To: Player cam ladder
     m_Blend:
       m_Style: 1
       m_Time: 0.6
   - m_From: Player cam ladder
-    m_To: '**ANY CAMERA**'
+    m_To: (none)
     m_Blend:
       m_Style: 1
       m_Time: 0.6
